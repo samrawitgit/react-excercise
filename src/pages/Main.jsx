@@ -21,7 +21,6 @@ export const Main = () => {
     }
   }, [isTimeoutActive]);
 
-  console.log({ isTimeoutActive });
   return (
     <>
       <h1>Hi Cathy!</h1>
